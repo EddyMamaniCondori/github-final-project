@@ -26,7 +26,7 @@ Si tienes una idea para mejorar el proyecto, ya sea una nueva función o una mej
 Si tienes una solución para un problema o una nueva funcionalidad, por favor sigue estos pasos:
 
     1. Haz un fork del repositorio:
-        git clone [[https://github.com/tu-usuario/simple-interest-calculator.git](https://github.com/EddyMamaniCondori/github-final-project.git)]
+        git clone [[https://github.com/EddyMamaniCondori/github-final-project.git](https://github.com/EddyMamaniCondori/github-final-project.git)]
     2. Crea una nueva rama para tu contribución:
         git checkout -b mi-mejora
     3. Realiza tus cambios y asegúrate de que el código siga las pautas de estilo establecidas           en el proyecto.
