@@ -39,8 +39,9 @@ Output:
 
 🚀 Cómo empezar
 Clona este repositorio:
-git clone [https://github.com/EddyMamaniCondori/github-final-project.git
-cd simple-interest-calculator](https://github.com/EddyMamaniCondori/github-final-project.git)
+git clone [https://github.com/EddyMamaniCondori/github-final-project.git](https://github.com/EddyMamaniCondori/github-final-project.git)
+
+cd github-final-project
 
 🛠️ Contribuciones
 ¡Las contribuciones son bienvenidas!
