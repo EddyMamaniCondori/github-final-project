@@ -39,7 +39,7 @@ Output:
 
 🚀 Cómo empezar
 Clona este repositorio:
-git clone [https://github.com/tu-usuario/simple-interest-calculator.git
+git clone [https://github.com/EddyMamaniCondori/github-final-project.git
 cd simple-interest-calculator](https://github.com/EddyMamaniCondori/github-final-project.git)
 
 🛠️ Contribuciones
